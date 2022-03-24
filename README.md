@@ -1,3 +1,4 @@
+## Course project of Image analysis and pattern recognition EE-451 
 We did not upload the data train_games. 
 
 Before running project.ipynb, please copy the data folder "train_games" into the same path as project.ipynb.
